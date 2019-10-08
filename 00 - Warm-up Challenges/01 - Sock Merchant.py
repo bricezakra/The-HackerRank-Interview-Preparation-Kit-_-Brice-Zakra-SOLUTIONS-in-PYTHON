@@ -36,4 +36,11 @@ n = 9
 ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]
 print(sockMerchant(n, ar))                                        ### ... output ... 3 (meaning 3 pairs)
 
-                  
+
+
+
+
+### BIG O NOTATION:
+
+### Time Complexity: O(n);
+### Space Complexity: O(n).
