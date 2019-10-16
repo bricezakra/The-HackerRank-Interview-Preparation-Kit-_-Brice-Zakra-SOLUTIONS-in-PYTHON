@@ -17,11 +17,7 @@ While playing around and testing my CODING SKILLS in PYTHON on WWW.HACKERRANK.CO
 
 
 
-<<<<<<< HEAD
 GITHUB Link:
-=======
-### GITHUB Link:
->>>>>>> 35e265258a91abea2bf9d879a2df1ef7161b3112
 
 https://github.com/bricezakra/The-HackerRank-Interview-Preparation-Kit-_-Brice-Zakra-SOLUTIONS-in-PYTHON
 
