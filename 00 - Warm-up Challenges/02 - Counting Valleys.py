@@ -19,7 +19,7 @@ def countingValleys(n, s):
     ## a VALLEY is defined as "a sequence of consecutive steps below the --sea level--, starting with a step down from the --sea level-- and ending with a step up to sea level.""...
     ## ... meaning "WE WILL HAVE A VALLEY EVERYTIME WE WILL MEET the --sea level (0)-- COMING FROM THE --BOTTOM--"
 
-    ## let's set our "level_sea" & our "valleyCounter" to 0
+    ## let's initialize two new variables called "level_sea" & "valleyCounter" to 0
     level_sea = valleyCounter = 0
     ## let's set up our LOOP for "i" in --the number of steps "n"-- Gary takes
     for i in range (n):
@@ -63,5 +63,5 @@ print(countingValleys(n, s))                                        ### ... outp
 
 ### BIG O NOTATION:
 
-### Time Complexity: O(n);
-### Space Complexity: O(n).
+### Time Complexity:      <=====>      ;                         
+### Space Complexity: .

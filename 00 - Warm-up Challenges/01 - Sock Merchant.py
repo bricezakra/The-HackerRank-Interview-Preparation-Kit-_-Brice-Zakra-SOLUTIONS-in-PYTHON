@@ -16,7 +16,7 @@ def sockMerchant(n, ar):
     unique_numbers = list(set(ar))
     ## let's test it by returning "unique_numbers" right after using the "list(set(...))" method! It is not necessary for our code. We will do it for good practice and as a debugger, then we will comment it out.
     # return unique_numbers                                                                ### The --output-- should be "[10, 20, 50, 30]""
-    ## Now let's set the --total pairs-- in our LIST of array to "0"!
+    ## Now let's initialize a variable called "total_pairs" to "0"!
     total_pairs = 0
     ## Let's set our LOOP for how many times we can find a --specific number "n"-- in our --set-- of --unique numbers--!
     for n in unique_numbers:
@@ -50,7 +50,12 @@ print(sockMerchant(n, ar))                                        ### ... output
 
 
 
-### BIG O NOTATION:
+### our BIG O NOTATION:
 
-### Time Complexity: O(n);
+### Time Complexity: O(n)     <=====>     Linear Time;                         
 ### Space Complexity: O(n).
+
+
+
+
+

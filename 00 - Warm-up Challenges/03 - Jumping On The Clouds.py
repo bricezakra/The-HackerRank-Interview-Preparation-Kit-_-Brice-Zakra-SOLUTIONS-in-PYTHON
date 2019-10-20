@@ -8,8 +8,8 @@ import sys
 
 # Complete the jumpingOnClouds function below.
 def jumpingOnClouds(c):
-    # let's set Emma's initial position to index[0]
-    currentPosition = 0
+    # let's initialize Emma's starting position called "currentPosition" to index[0]
+    currentPosition = 0                       
     # let's set our jumpCounter to 0
     jumpCounter = 0
 
@@ -51,5 +51,5 @@ print(jumpingOnClouds(c))                              ## ... output ... 5
 
 ### BIG O NOTATION:
 
-### Time Complexity: ;
+### Time Complexity:     <=====>     ;                         
 ### Space Complexity: .
