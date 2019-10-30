@@ -11,7 +11,7 @@ HACKERRANK provided us 69 CODING CHALLENGES including ARRAYS, DICTIONARIES & HAS
 
 
 
-While playing around and testing my CODING SKILLS in PYTHON on WWW.HACKERRANK.COM, I will consistently push every single day at least one solution of the INTERVIEW-PREPARATION-KIT-CHALLENGE until the last one.
+My ultimate goal for this personal exercise is to consistently push at least one solution of the INTERVIEW-PREPARATION-KIT-CHALLENGE evry single day until the last one.
 
 
 
