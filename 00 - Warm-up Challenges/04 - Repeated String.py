@@ -7,8 +7,8 @@ import re
 import sys
 
 
-s = ["a","b","a"]                                         ## switch -----s = ["a","b","a"]----- for -----s = input()----- to run the solution on HackerRank
-n = 10                                                    ## switch -----n = 10----- for -----n = int(input())----- to run the solution on HackerRank
+s = ["a","b","a"]                                         ## replace -----s = ["a","b","a"]----- for -----s = input()----- to run the solution on HackerRank
+n = 10                                                    ## replace -----n = 10----- for -----n = int(input())----- to run the solution on HackerRank
 
 counterOfa = 0
 length = len(s)
