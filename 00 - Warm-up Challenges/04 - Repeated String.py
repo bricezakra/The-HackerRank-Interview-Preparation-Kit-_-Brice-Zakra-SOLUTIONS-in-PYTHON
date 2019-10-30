@@ -7,8 +7,8 @@ import re
 import sys
 
 
-s = ["a","b","a"]
-n = 10
+s = ["a","b","a"]                                         ## switch -----s = ["a","b","a"]----- for -----s = input()----- to run the solution on HackerRank
+n = 10                                                    ## switch -----n = 10----- for -----n = int(input())----- to run the solution on HackerRank
 
 counterOfa = 0
 length = len(s)
@@ -31,7 +31,7 @@ while x < n:
         x += 1
     i += 1
 
-print(repeatedString)                                        ## ... output ... 7                           
+print(repeatedString)                                      ## ... output ... 7                           
 
 
 
